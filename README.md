@@ -10,9 +10,10 @@ Monday
   * 10:30 - personal info discussion (no notes)
   * [11:00 - Angular: Today, Tomorrow and Beyond](Monday/1100-Angular Today, Tomorrow and Beyond.md)
   * [13:00 - Angular 2 Speed Run](Monday/1300-Angular 2 Speed Run.md)
-  * rangle.io pitch (sponser)
+  * [rangle.io](http://rangle.io) pitch (sponser) (no notes)
   * [13:30 - Using ES2015 now with Angular 1.x](Monday/1330-Using ES2015 now with Angular 1.x.md)
-  * [Microsoft Edge]
+  * [Microsoft Edge Browser](Monday/Microsoft Edge Browser.md)
+  * [14:00 - Migrating to Angular2](Monday/1400-Migrating to Angular2.md)
 
 Tuesday
 -------

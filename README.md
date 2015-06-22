@@ -18,6 +18,7 @@ Monday
   * [15:00 - Dominating Shadow DOM](Monday/1500-Dominating Shadow DOM.md)
   * [form.io](http://form.io) pitch
   * [15:30 - Broken APIs Delivered Late](Monday/1530-Working with Broken APIs Delivered Late.md)
+  * [16:00 - Get MEAN](Monday/1600-Get MEAN.md)
 
 Tuesday
 -------

@@ -1,6 +1,8 @@
 Angular 2 Roadmap Update
 ========================
 
+[Slides](https://goo.gl/vu4o5T)
+
 Brad Green
 ----------
 
@@ -78,8 +80,6 @@ Brad Green
         * native
         * web workers
         * ?
-
-[Slides](https://goo.gl/vu4o5T)
 
 Questions
 ---------

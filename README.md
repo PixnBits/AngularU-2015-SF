@@ -1,7 +1,7 @@
 AngularU 2015 SF
 ================
 
-Notes from the AngularU 2015 San Francisco conference
+Notes from the [AngularU 2015 San Francisco conference](https://angularu.com/ng/overview)
 
 Monday
 ------
@@ -16,6 +16,8 @@ Monday
   * [14:00 - Migrating to Angular2](Monday/1400-Migrating to Angular2.md)
   * [pluralsight](http://pluralsight.com) pitch (no notes)
   * [15:00 - Dominating Shadow DOM](Monday/1500-Dominating Shadow DOM.md)
+  * [form.io](http://form.io) pitch
+  * [15:30 - Broken APIs Delivered Late](Monday/1530-Working with Broken APIs Delivered Late.md)
 
 Tuesday
 -------

@@ -14,6 +14,8 @@ Monday
   * [13:30 - Using ES2015 now with Angular 1.x](Monday/1330-Using ES2015 now with Angular 1.x.md)
   * [Microsoft Edge Browser](Monday/Microsoft Edge Browser.md)
   * [14:00 - Migrating to Angular2](Monday/1400-Migrating to Angular2.md)
+  * [pluralsight](http://pluralsight.com) pitch (no notes)
+  * [15:00 - Dominating Shadow DOM](Monday/1500-Dominating Shadow DOM.md)
 
 Tuesday
 -------

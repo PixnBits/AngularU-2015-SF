@@ -24,6 +24,8 @@ Monday
 Tuesday
 -------
 
+  * [09:00 - TypeScript and Angular 2.0](Tuesday/0900-TypeScript and Angular 2.0.md)
+
 Notes
 -----
 

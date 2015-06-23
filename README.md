@@ -26,6 +26,7 @@ Tuesday
 
   * [09:00 - TypeScript and Angular 2.0](Tuesday/0900-TypeScript and Angular 2.0.md)
   * [10:30 - Angular 2 Server Rendering](Tuesday/1030-Angular 2 Server Rendering.md)
+  * [11:00 - Vaadin Components for AngularJS](Tuesday/1100-Vaadin Components for AngularJS.md)
 
 Notes
 -----

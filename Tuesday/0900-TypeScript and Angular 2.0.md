@@ -117,7 +117,7 @@ Questions
         * DefinitelyTyped
         * Q: "right, so it's like drugs" and "it looks like Java again"
             * it's up to you & your project
-* ___? (typing, sorry)
+* ___? [[(typing, sorry)]]
     * the azure portal is written in TypeScript
         * some interviews with those guys [[videos?]]
 * come from Java, learning JavaScript way, this looks more familiar to me, what is ___ in creating classes?

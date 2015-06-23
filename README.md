@@ -30,6 +30,7 @@ Tuesday
   * [13:00 - Directives in Angular: 1 + 2 = WIN](Tuesday/1300-Directives in Angular.md)
   * [13:30 - Componentize your app with Polymer Elements](Tuesday/1330-Componentize your app with Polymer Elements.md)
   * [15:00 - Creating d3 Components with Angular](Tuesday/1500-Creating d3 Components.md)
+  * [15:30 - A Token Walks into a SPA…](Tuesday/1530-A Token Walks into a SPA.md)
 
 Notes
 -----

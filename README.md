@@ -19,6 +19,7 @@ Monday
   * [form.io](http://form.io) pitch
   * [15:30 - Broken APIs Delivered Late](Monday/1530-Working with Broken APIs Delivered Late.md)
   * [16:00 - Get MEAN](Monday/1600-Get MEAN.md)
+  * [16:30 - Upgrading the Web](Monday/1630-Upgrading the Web.md)
 
 Tuesday
 -------
@@ -26,4 +27,4 @@ Tuesday
 Notes
 -----
 
- I added my own thoughts in double square brackets [[like this]]
+I've added my own thoughts in double square brackets [[like this]]

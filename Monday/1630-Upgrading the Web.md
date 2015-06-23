@@ -171,3 +171,78 @@ Douglas Crockford!!!
         * not what I'm doing
     * it's too early, I shouldn't even be talking about this
         * offering hope
+
+Questions
+---------
+
+* Vats in the cloud?
+    *
+* thoughts on compiling JS?
+    * not worth the trouble
+    * type systems not worth the trouble
+    * Haskell's is the best and still isn't worth the trouble
+    * we're not there yet
+    * I find that I'm more productive with plain JS
+    * if your brain is trained in Java, C# feel free
+    * functions are so more expressive
+    * the worst bad part in ES2015: `class`
+        * locks you into the classical paradigm
+        * pretending you're still in Java
+            * you're not in Java
+            * it's going to slap you
+        * classical programmers will go to their graves never knowing how miserable they were
+* ActiveX?
+    * only the power of good can beat the power of bad
+* type systems counter example: BE changed the data their sending (DTO's etc)
+    * [[that's not a question]]
+    * "Can I stop you there?"
+    * "wait, what was the question?"
+        * "maybe you should start again?"
+    * not saying there's _no_ value to type systems, just not enough
+        * one good use case doesn't validate doing everywhere
+* legislate the updgrade?
+    * gov't?
+    * what we've been doing is so baffling to them
+    * ex: tax system
+    * keep the gov't out as long as possible
+* anti-patterns of the frameworks
+    * all are better than nothing
+    * hard part is which one to use?
+        * each one is a trap
+            * huge investment
+            * still better than DOM
+* where do we follow progress of the project?
+    * all in the open
+    * but not quite where I can put it out there
+    * timeline uncertain
+        * start?
+        * stop?
+        * it's software
+* better web security need to be tightly coupled to strictly-typed?
+    * remember Java applets?
+    * capability model doesn't care about type systems
+    * once you fix the global variable problem JS is pretty secure
+        * good part of node
+    * frozen objects are the only way to get the security systems we want
+* what form will the set-top box come in?
+    * need one open implementation
+        * no money in it
+    * various forms
+    * install it in the browser
+* HTML security concerns, any other platform solving these?
+    * I'll have to look at that
+* biometrics
+    * love them
+    * concerns
+        * rubber-hose attacks
+        * the device knows it's not in my hand anymore
+            * I really hope someone 
+            * I've got enough to do
+* why did you let `class` in?
+    * most requested feature
+        * didn't stop you before
+    * blocked in ES4
+        * used all my karma points
+        * ECMA was tired of me "make it smaller"
+    * favorite feature is tail recursion
+        * probably the last to be implemented

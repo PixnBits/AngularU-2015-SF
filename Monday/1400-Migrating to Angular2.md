@@ -1,6 +1,8 @@
 Migrating to Angular2
 =====================
 
+David East
+
 * using Angular v1.4
     * use `Controller as controllerName` syntax
     * using john papa's angular style

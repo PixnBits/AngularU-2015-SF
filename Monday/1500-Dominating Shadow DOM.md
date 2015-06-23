@@ -1,6 +1,8 @@
 Dominating Shadow DOM
 =====================
 
+Tomomi Imura
+
 [slides]() REALLY need slides!!
 
 * W3C Web Components

@@ -1,6 +1,8 @@
 Directives in Angular: 1 + 2 = WIN
 ==================================
 
+Joe Eames
+
 * 6th grade to Middle School
     * lost on the first day
     * after a while, the school wasn't that big anymore

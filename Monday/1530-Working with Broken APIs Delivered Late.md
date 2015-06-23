@@ -1,6 +1,8 @@
 Working with Broken APIs Delivered Late
 =======================================
 
+Yuri Takheyev
+
 [slides](http://yto.io/xngu)
 
 * split of FE/BE

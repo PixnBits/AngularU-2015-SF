@@ -1,6 +1,8 @@
 Angular 2 Speed Run
 ===================
 
+John Lindquist
+
 [code](https://github.com/johnlindquist/speed-run)
 
 Demo, best to view video but...

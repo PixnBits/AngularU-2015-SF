@@ -1,6 +1,8 @@
 Using ES2015 now with Angular 1.x
 =================================
 
+Scott Moss
+
 * ES6 is final (as of last week)
 * ES7 is now under development :)
 * build tool support

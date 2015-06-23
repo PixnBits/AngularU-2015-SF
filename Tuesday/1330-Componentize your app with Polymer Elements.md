@@ -1,7 +1,10 @@
-[Componentize your app with Polymer Elements](https://angularu.com/ng/workshop/2015sf/componentize-your-app-with-polymer-elements)
+Componentize your app with Polymer Elements
 ===========================================
 
 Rob Dodson
+
+[event](https://angularu.com/ng/workshop/2015sf/componentize-your-app-with-polymer-elements)
+[video]()
 
 * Jam
     * communist scientists gave people coupons

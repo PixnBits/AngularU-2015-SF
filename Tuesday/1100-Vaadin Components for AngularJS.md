@@ -1,6 +1,8 @@
 Vaadin Components for AngularJS
 ===============================
 
+Joonas Lehtinen
+
 [github.com/vaadin](https://github.com/vaadin)
 
 * who's heard of Vaadin :)

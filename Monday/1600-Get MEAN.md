@@ -1,6 +1,8 @@
 Get MEAN! MongoDb + express + angular + node
 ============================================
 
+Ward Bell
+
 * Full Stack SPA
   * MongoDB
   * Express
